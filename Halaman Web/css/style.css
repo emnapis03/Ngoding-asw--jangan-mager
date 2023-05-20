@@ -1,0 +1,16 @@
+body {
+  background-color: #264e40;
+}
+.container {
+  margin: 0 auto;
+  background-color: #558257;
+  width: fit-content;
+  margin-top: 15%;
+  padding: 50px;
+  border-radius: 14px;
+  color: #e3e566;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+}
